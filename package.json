@@ -3,7 +3,7 @@
   "packageManager": "yarn@3.6.4",
   "type": "module",
   "scripts": {
-    "reports:apple": "node app-store-connect-reports.js"
+    "reports:apple": "node apple-reports.js"
   },
   "dependencies": {
     "@inquirer/prompts": "^8.0.1",
